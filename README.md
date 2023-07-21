@@ -1,5 +1,5 @@
 
-<h1>Add to Cart Page</h1>
+<h1>E-commerce Cart Page 🛒</h1>
 
 ![Capture](https://github.com/ManiM97/addtocartpage/assets/128119718/abe0e959-c089-418b-b084-b04aa4eddd5c)
 
@@ -37,6 +37,12 @@ On the cart summary section, users may have the option to update the quantity of
 
 <h3>🔸Call to Action:</h3>
 The page design often emphasizes the "Add to Cart" button, making it visually distinct and encouraging users to complete the action of adding items to their cart.
+
+<h3>🔸Responsive Design:</h3>
+The user interface is designed by using media queries, ensuring a responsive and visually appealing layout across different devices and screen sizes.
+
+<h3>🔸Cross-Platform Compatibility:</h3>
+The e-commerce cart page is designed to work across multiple platforms and operating systems, including Windows, macOS, Linux, iOS, and Android. It leverages web technologies or platform-specific frameworks to ensure maximum accessibility</h3>
 
 
 <h1>Reference Video</h1>
